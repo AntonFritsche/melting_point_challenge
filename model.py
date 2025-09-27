@@ -38,6 +38,3 @@ def lstm_stacked(in_features: int) -> tf.keras.Model:
     x = layers.LayerNormalization(epsilon=1e-6)(x)
 
     return tf.keras.Model(inputs=inputs, outputs=x)
-
-
-
