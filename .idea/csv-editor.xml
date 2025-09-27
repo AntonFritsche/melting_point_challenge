@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\melting-point\sample_submission_v3.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\melting-point\test.csv">
           <value>
             <Attribute>
